@@ -1,13 +1,18 @@
 # Personal Portfolio
 
-![Your Name](https://via.placeholder.com/150) <!-- Replace with your image link -->
+![Hrishikesh Magadum](https://via.placeholder.com/150) <!-- Replace with your image link -->
 
 ## About Me
-Hello! I'm Hrishikesh Magadum, a passionate data scientist with a deep interest in Machine Learning. Currently, I'm pursuing a Master's degree in Data Science at Arizona State University. I have experience working on various projects in Deep Learning, Recommendation Systems, Text-to-image generation, Transformer based Image Restoration and I'm always eager to learn and explore new technologies.
+Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep interest in Machine Learning. Currently, I'm pursuing a Master's degree in Data Science at Arizona State University. I have experience working on various projects in Deep Learning, Recommendation Systems, Text-to-Image Generation, and Transformer Image Restoration, and I'm always eager to learn and explore new technologies.
 
 - **Email:** hrishikeshmagadum09@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/hrishikesh-magadum-323a431b3/
-- **GitHub:** https://github.com/hrishikeshm12
+- **LinkedIn:** [Hrishikesh Magadum](https://www.linkedin.com/in/hrishikesh-magadum-323a431b3/)
+- **GitHub:** [hrishikeshm12](https://github.com/hrishikeshm12)
+
+## Social Media
+- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Instagram:** [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle)
+- **Facebook:** [Your Facebook](https://www.facebook.com/YourFacebookHandle)
 
 ## Experience
 ### [Your Most Recent Position]
@@ -54,4 +59,3 @@ Hello! I'm Hrishikesh Magadum, a passionate data scientist with a deep interest 
 ---
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on any project!
-
