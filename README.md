@@ -1,6 +1,4 @@
 
-![Hrishikesh Magadum](https://github.com/user-attachments/assets/1ea7d318-934c-4b55-9cdc-1976cd8080a0)
-
 <!-- To make the image round, use HTML inside the Markdown file -->
 <img src="https://github.com/user-attachments/assets/1ea7d318-934c-4b55-9cdc-1976cd8080a0" alt="Hrishikesh Magadum" style="border-radius: 50%; width: 150px; height: 150px;">
 
