@@ -1,4 +1,3 @@
-# Personal Portfolio
 
 ![Hrishikesh Magadum](https://via.placeholder.com/150) <!-- Replace with your image link -->
 
@@ -9,10 +8,12 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 - **LinkedIn:** [Hrishikesh Magadum](https://www.linkedin.com/in/hrishikesh-magadum-323a431b3/)
 - **GitHub:** [hrishikeshm12](https://github.com/hrishikeshm12)
 
-## Social Media
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Instagram:** [@YourInstagramHandle](https://www.instagram.com/YourInstagramHandle)
-- **Facebook:** [Your Facebook](https://www.facebook.com/YourFacebookHandle)
+## Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-hrishikeshm12-181717?style=for-the-badge&logo=github)](https://github.com/hrishikeshm12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrishikesh%20Magadum-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrishikesh-magadum-323a431b3/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-hrishikeshm12-4285F4?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=p2Nk2JwAAAAJ&hl=en&oi=ao) 
+
+## Experience
 
 ## Experience
 ### [Your Most Recent Position]
