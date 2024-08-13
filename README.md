@@ -1,5 +1,6 @@
 
-![Hrishikesh Magadum](https://via.placeholder.com/150) <!-- Replace with your image link -->
+![Hrishikesh Magadum](![profile pic](https://github.com/user-attachments/assets/1ea7d318-934c-4b55-9cdc-1976cd8080a0)
+) 
 
 ## About Me
 Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep interest in Machine Learning. Currently, I'm pursuing a Master's degree in Data Science at Arizona State University. I have experience working on various projects in Deep Learning, Recommendation Systems, Text-to-Image Generation, and Transformer Image Restoration, and I'm always eager to learn and explore new technologies.
