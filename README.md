@@ -5,18 +5,15 @@
 ## About Me
 Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep interest in Machine Learning. Currently, I'm pursuing a Master's degree in Data Science at Arizona State University. I have experience working on various projects in Deep Learning, Recommendation Systems, Text-to-Image Generation, and Transformer Image Restoration, and I'm always eager to learn and explore new technologies.
 
-- **Email:** hrishikeshmagadum09@gmail.com
-- **LinkedIn:** [Hrishikesh Magadum](https://www.linkedin.com/in/hrishikesh-magadum-323a431b3/)
-- **GitHub:** [hrishikeshm12](https://github.com/hrishikeshm12)
 
 ## Connect with Me
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=)](https://github.com/hrishikeshm12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/hrishikesh-magadum-323a431b3/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&label=)](https://scholar.google.com/citations?user=p2Nk2JwAAAAJ&hl=en&oi=ao)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=)](mailto:hrishikeshmagadum09@gmail.com)
 
 
-
-## Experience
 
 ## Experience
 ### [Your Most Recent Position]
