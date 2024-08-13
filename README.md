@@ -9,9 +9,10 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 - **GitHub:** [hrishikeshm12](https://github.com/hrishikeshm12)
 
 ## Connect with Me
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github)](https://github.com/hrishikeshm12)
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrishikesh-magadum-323a431b3/)
-[![Google Scholar](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=p2Nk2JwAAAAJ&hl=en&oi=ao)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=)](https://github.com/hrishikeshm12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/hrishikesh-magadum-323a431b3/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&label=)](https://scholar.google.com/citations?user=p2Nk2JwAAAAJ&hl=en&oi=ao)
+
 
 
 ## Experience
