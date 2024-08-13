@@ -1,6 +1,8 @@
 
-![Hrishikesh Magadum](![profile pic](https://github.com/user-attachments/assets/1ea7d318-934c-4b55-9cdc-1976cd8080a0)
-) 
+![Hrishikesh Magadum](https://github.com/user-attachments/assets/1ea7d318-934c-4b55-9cdc-1976cd8080a0)
+
+<!-- To make the image round, use HTML inside the Markdown file -->
+<img src="https://github.com/user-attachments/assets/1ea7d318-934c-4b55-9cdc-1976cd8080a0" alt="Hrishikesh Magadum" style="border-radius: 50%; width: 150px; height: 150px;">
 
 ## About Me
 Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep interest in Machine Learning. Currently, I'm pursuing a Master's degree in Data Science at Arizona State University. I have experience working on various projects in Deep Learning, Recommendation Systems, Text-to-Image Generation, and Transformer Image Restoration, and I'm always eager to learn and explore new technologies.
