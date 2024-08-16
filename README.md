@@ -15,46 +15,29 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 
 
-## Experience
-### [Your Most Recent Position]
-**Company Name** | *Location* | `Month Year - Present`
-
-- Briefly describe your role and responsibilities.
+## Experience### [Your Most Recent Position]**Company Name** | *Location*<span style="float: right;">`Month Year - Present`</span>- Briefly describe your role and responsibilities.
 - Highlight your key achievements or contributions.
 
-### [Previous Position]
-**Company Name** | *Location* | `Month Year - Month Year`
-
-- Briefly describe your role and responsibilities.
+### [Previous Position]**Company Name** | *Location*<span style="float: right;">`Month Year - Month Year`</span>- Briefly describe your role and responsibilities.
 - Highlight your key achievements or contributions.
 
-## Projects
-### [Project Name 1]
-- **Description:** Provide a brief overview of the project, its purpose, and your role.
-- **Technologies:** List the main technologies and tools you used.
-- **Link:** [GitHub Repository](https://github.com/)
+## Projects### [Project Name 1]-**Description:** Provide a brief overview of the project, its purpose, and your role.
+-**Technologies:** List the main technologies and tools you used.
+-**Link:** [GitHub Repository](https://github.com/)
 
-### [Project Name 2]
-- **Description:** Provide a brief overview of the project, its purpose, and your role.
-- **Technologies:** List the main technologies and tools you used.
-- **Link:** [GitHub Repository](https://github.com/)
+### [Project Name 2]-**Description:** Provide a brief overview of the project, its purpose, and your role.
+-**Technologies:** List the main technologies and tools you used.
+-**Link:** [GitHub Repository](https://github.com/)
 
-## Publications
-### [Publication Title 1](https://link.to.publication)
-- **Journal/Conference:** Name of the journal or conference.
-- **Authors:** Your Name, Co-author's Name.
-- **Abstract:** Provide a brief summary of the publication.
+## Publications### [Publication Title 1](https://link.to.publication) <span style="float: right;">`Month Year`</span>-**Journal/Conference:** Name of the journal or conference.
+-**Authors:** Your Name, Co-author's Name.
+-**Abstract:** Provide a brief summary of the publication.
 
-### [Publication Title 2](https://link.to.publication)
-- **Journal/Conference:** Name of the journal or conference.
-- **Authors:** Your Name, Co-author's Name.
-- **Abstract:** Provide a brief summary of the publication.
+### [Publication Title 2](https://link.to.publication) <spanstyle="float: right;">`Month Year`</span>-**Journal/Conference:** Name of the journal or conference.
+-**Authors:** Your Name, Co-author's Name.
+-**Abstract:** Provide a brief summary of the publication.
 
-## Education
-### [Your Degree]
-**Institution Name** | *Location* | `Month Year - Month Year`
-
-- Major: [Your Major]
+## Education### [Your Degree]**Institution Name** | *Location*<span style="float: right;">`Month Year - Month Year`</span>- Major: [Your Major]
 - Relevant coursework: [List some key courses]
 
 ---
