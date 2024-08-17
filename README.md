@@ -17,11 +17,10 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 ## Experience
 
-## Experience
-### Computer Vision Intern  <span style="float: right;">January 2022 - October 2022</span>
+### Computer Vision Intern  <span style="float: right;font-size: 0.9em;">January 2022 - October 2022</span>
 **Samsung Prism**
 - I developed the foundation of a 3D shot-suggestion model over the existing 2D shot-suggestion model using NeRF (Neural Radiance Fields) and Pix2Vox framework.
-- The framework enables dynamic selection of style or content percentages, resulting in real-time similarity scoring, aligning with product design and artificial intelligence principles.
+- The framework enables dynamic selection of style or content percentages, resulting in real-time similarity scoring that aligns with product design and artificial intelligence principles.
 
 ---
 
