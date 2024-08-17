@@ -17,11 +17,31 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 ## Experience
 
-### Computer Vision Intern  <span style="float: right ;font-size: 0.9em;">January 2022 - October 2022</span>
-**Samsung Prism**
-- I developed the foundation of a 3D shot-suggestion model over the existing 2D shot-suggestion model using NeRF (Neural Radiance Fields) and Pix2Vox framework.
-- The framework enables dynamic selection of style or content percentages, resulting in real-time similarity scoring that aligns with product design and artificial intelligence principles.
+### DATABASE DEVELOPER INTERN  <span style="float: right ;font-size: 0.9em;">January 2024 - July 2024</span>
+**WINSOFT TECHNOLOGIES**
+- I wrote 20 SQL stored procedures for managing, validating, and storing bank customer details using XML and JSON data from the frontend.
+- Wrote 50+ SQL queries to check data consistency, and tested multiple stored procedure scripts on the QA database.
+- Coordinated with the testing team to deploy patches, and check and resolve existing issues on the pre-production database.
 
+---
+
+### SOFTWARE DEVELOPER  <span style="float: right ;font-size: 0.9em;">August 2024 - December 2024</span>
+**GPJC SOLUTIONS**
+- Developed components for the Speed18 office management software.
+- Optimized the search component by implementing dynamic query fetching based on user input, and leveraged Optical Character Recognition (OCR) to accurately 
+  detect and extract handwritten text from .png, .jpg, and PDF images
+---
+
+### SOFTWARE DEVELOPER INTERN  <span style="float: right ;font-size: 0.9em;">February 2023- July 2023</span>
+**WORLDLINE**
+- Developed key functions for a Chargeback Automation system, replacing manual email-based validation to streamline and accelerate dispute resolution processes.
+- Developed and integrated callback functions for microservices, utilizing pod configuration to enable synchronous communication between various system components.
+---
+
+### DATA ANALYTICS INTERN  <span style="float: right ;font-size: 0.9em;">MAY 2022- AUG 2022</span>
+**RELIANCE JIO**
+- Developed customized use cases for crowd detection using the PeopleNet v2.6 model and the NVIDIA DetectNet_v2 detector on live video data.
+-  Deployed multiple object detection ML models using Docker container and Nvidia Deepstream SDK's dedicated GPU to compare accuracies and dynamic memory usage.
 ---
 
 ### Research Intern**Prasath Lab**<span style="float: right;">December 2021 - January 2023</span>- Enhanced neural network performance by 4% through the implementation of higher-order transformation functions, contributing to machine learning algorithm development.
