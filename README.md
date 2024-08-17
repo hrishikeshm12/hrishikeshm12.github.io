@@ -15,7 +15,8 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 
 
-## Experience### Your Most Recent Position**Company Name***Location*<span style="float: right; font-size: 14px;">`Month Year - Present`</span>- Briefly describe your role and responsibilities.
+## Experience
+Your Most Recent Position**Company Name***Location*<span style="float: right; font-size: 14px;">`Month Year - Present`</span>- Briefly describe your role and responsibilities.
 - Highlight your key achievements or contributions.
 
 ---
@@ -25,7 +26,8 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 ---
 
-## Projects### Project Name 1**Description:**  
+## Projects
+Project Name 1**Description:**  
 Provide a brief overview of the project, its purpose, and your role.
 
 **Technologies:**  
