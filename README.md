@@ -29,7 +29,7 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 **GPJC SOLUTIONS**
 - Developed components for the Speed18 office management software.
 - Optimized the search component by implementing dynamic query fetching based on user input, and leveraged Optical Character Recognition (OCR) to accurately 
-  detect and extract handwritten text from .png, .jpg, and PDF images
+  detect and extract handwritten text from .png, .jpg, and PDF images.
 ---
 
 ### SOFTWARE DEVELOPER INTERN  <span style="float: right ;font-size: 0.9em;">February 2023- July 2023</span>
@@ -42,17 +42,6 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 **RELIANCE JIO**
 - Developed customized use cases for crowd detection using the PeopleNet v2.6 model and the NVIDIA DetectNet_v2 detector on live video data.
 -  Deployed multiple object detection ML models using Docker container and Nvidia Deepstream SDK's dedicated GPU to compare accuracies and dynamic memory usage.
----
-
-### Research Intern**Prasath Lab**<span style="float: right;">December 2021 - January 2023</span>- Enhanced neural network performance by 4% through the implementation of higher-order transformation functions, contributing to machine learning algorithm development.
-- Developed a framework to enable dynamic selection of style or content percentages, resulting in real-time similarity scoring, aligning with product design and artificial intelligence principles.
-
-
----
-
-### Previous Position**Company Name***Location*<span style="float: right; font-size: 14px;">`Month Year - Month Year`</span>- Briefly describe your role and responsibilities.
-- Highlight your key achievements or contributions.
-
 ---
 
 ## Projects
