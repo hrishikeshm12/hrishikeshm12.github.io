@@ -15,31 +15,63 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 
 
-# Experience### [Your Most Recent Position]**<span style="font-size: 18px;">Company Name</span>**<span style="font-size: 16px;">*Location*</span><span style="float: right; font-size: 14px;">`Month Year - Present`</span>-<span style="font-size: 14px;">Briefly describe your role and responsibilities.</span>-<span style="font-size: 14px;">Highlight your key achievements or contributions.</span>
+## Experience### Your Most Recent Position**Company Name***Location*<span style="float: right; font-size: 14px;">`Month Year - Present`</span>- Briefly describe your role and responsibilities.
+- Highlight your key achievements or contributions.
 
 ---
 
-### [Previous Position]**<span style="font-size: 18px;">Company Name</span>**<span style="font-size: 16px;">*Location*</span><span style="float: right; font-size: 14px;">`Month Year - Month Year`</span>-<span style="font-size: 14px;">Briefly describe your role and responsibilities.</span>-<span style="font-size: 14px;">Highlight your key achievements or contributions.</span>
+### Previous Position**Company Name***Location*<span style="float: right; font-size: 14px;">`Month Year - Month Year`</span>- Briefly describe your role and responsibilities.
+- Highlight your key achievements or contributions.
 
 ---
 
-# Projects### [Project Name 1]**<span style="font-size: 18px;">Description:</span>**<span style="font-size: 14px;">Provide a brief overview of the project, its purpose, and your role.</span>**<span style="font-size: 18px;">Technologies:</span>**<span style="font-size: 14px;">List the main technologies and tools you used.</span>**<span style="font-size: 18px;">Link:</span>**<span style="font-size: 14px;">[GitHub Repository](https://github.com/)</span>
+## Projects### Project Name 1**Description:**  
+Provide a brief overview of the project, its purpose, and your role.
+
+**Technologies:**  
+List the main technologies and tools you used.
+
+**Link:**  
+[GitHub Repository](https://github.com/)
 
 ---
 
-### [Project Name 2]**<span style="font-size: 18px;">Description:</span>**<span style="font-size: 14px;">Provide a brief overview of the project, its purpose, and your role.</span>**<span style="font-size: 18px;">Technologies:</span>**<span style="font-size: 14px;">List the main technologies and tools you used.</span>**<span style="font-size: 18px;">Link:</span>**<span style="font-size: 14px;">[GitHub Repository](https://github.com/)</span>
+### Project Name 2**Description:**  
+Provide a brief overview of the project, its purpose, and your role.
+
+**Technologies:**  
+List the main technologies and tools you used.
+
+**Link:**  
+[GitHub Repository](https://github.com/)
 
 ---
 
-# Publications### [Publication Title 1](https://link.to.publication)**<span style="font-size: 16px;">Journal/Conference:</span>**<span style="font-size: 14px;">Name of the journal or conference.</span><span style="float: right; font-size: 14px;">`Month Year`</span>-**<span style="font-size: 16px;">Authors:</span>**<span style="font-size: 14px;">Your Name, Co-author's Name.</span>-**<span style="font-size: 16px;">Abstract:</span>**<span style="font-size: 14px;">Provide a brief summary of the publication.</span>
+## Publications### [Publication Title 1](https://link.to.publication)**Journal/Conference:**  
+Name of the journal or conference  
+<spanstyle="float: right; font-size: 14px;">`Month Year`</span>**Authors:**  
+Your Name, Co-author's Name.
+
+**Abstract:**  
+Provide a brief summary of the publication.
 
 ---
 
-### [Publication Title 2](https://link.to.publication)**<span style="font-size: 16px;">Journal/Conference:</span>**<span style="font-size: 14px;">Name of the journal or conference.</span><span style="float: right; font-size: 14px;">`Month Year`</span>-**<span style="font-size: 16px;">Authors:</span>**<span style="font-size: 14px;">Your Name, Co-author's Name.</span>-**<span style="font-size: 16px;">Abstract:</span>**<span style="font-size: 14px;">Provide a brief summary of the publication.</span>
+### [Publication Title 2](https://link.to.publication)**Journal/Conference:**  
+Name of the journal or conference  
+<spanstyle="float: right; font-size: 14px;">`Month Year`</span>**Authors:**  
+Your Name, Co-author's Name.
+
+**Abstract:**  
+Provide a brief summary of the publication.
 
 ---
 
-# Education### [Your Degree]**<span style="font-size: 18px;">Institution Name</span>**<span style="font-size: 16px;">*Location*</span><span style="float: right; font-size: 14px;">`Month Year - Month Year`</span>-**<span style="font-size: 16px;">Major:</span>**<span style="font-size: 14px;">[Your Major]</span>-**<span style="font-size: 16px;">Relevant coursework:</span>**<span style="font-size: 14px;">[List some key courses]</span>
+## Education### Your Degree**Institution Name***Location*<span style="float: right; font-size: 14px;">`Month Year - Month Year`</span>**Major:**  
+Your Major
+
+**Relevant coursework:**  
+List some key courses
 
 
 ---
