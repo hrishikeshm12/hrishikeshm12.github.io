@@ -23,20 +23,19 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 - Wrote 50+ SQL queries to check data consistency, and tested multiple stored procedure scripts on the QA database.
 - Coordinated with the testing team to deploy patches, and check and resolve existing issues on the pre-production database.
 
----
 
 ### SOFTWARE DEVELOPER  <span style="float: right ;font-size: 0.9em;">August 2024 - December 2024</span>
 **GPJC SOLUTIONS**
 - Developed components for the Speed18 office management software.
 - Optimized the search component by implementing dynamic query fetching based on user input, and leveraged Optical Character Recognition (OCR) to accurately 
   detect and extract handwritten text from .png, .jpg, and PDF images.
----
+
 
 ### SOFTWARE DEVELOPER INTERN  <span style="float: right ;font-size: 0.9em;">February 2023- July 2023</span>
 **WORLDLINE**
 - Developed key functions for a Chargeback Automation system, replacing manual email-based validation to streamline and accelerate dispute resolution processes.
 - Developed and integrated callback functions for microservices, utilizing pod configuration to enable synchronous communication between various system components.
----
+  
 
 ### DATA ANALYTICS INTERN  <span style="float: right ;font-size: 0.9em;">MAY 2022- AUG 2022</span>
 **RELIANCE JIO**
