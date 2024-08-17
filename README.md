@@ -15,36 +15,27 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 
 
-## Experience
+## EXPERIENCE### DATABASE DEVELOPER INTERN <span style="float: right; font-size: 0.9em;">January 2024 - July 2024</span>  
+**Winsoft Technologies**
+- Developed 20 SQL stored procedures for managing, validating, and storing bank customer details using XML and JSON data from the frontend.
+- Wrote over 50 SQL queries to ensure data consistency and tested multiple stored procedure scripts on the QA database.
+- Coordinated with the testing team to deploy patches, and troubleshoot and resolve issues in the pre-production database.
 
-### DATABASE DEVELOPER INTERN  <span style="float: right ;font-size: 0.9em;">January 2024 - July 2024</span>
-**WINSOFT TECHNOLOGIES**
-- I wrote 20 SQL stored procedures for managing, validating, and storing bank customer details using XML and JSON data from the frontend.
-- Wrote 50+ SQL queries to check data consistency, and tested multiple stored procedure scripts on the QA database.
-- Coordinated with the testing team to deploy patches, and check and resolve existing issues on the pre-production database.
+### SOFTWARE DEVELOPER <spanstyle="float: right; font-size: 0.9em;">August 2024 - December 2024</span>
+**GPJC Solutions**
+- Contributed to the development of components for the Speed18 office management software.
+- Enhanced search functionality by implementing dynamic query fetching based on user input and utilized Optical Character Recognition (OCR) to accurately detect and extract handwritten text from .png, .jpg, and PDF images.
 
+### SOFTWARE DEVELOPER INTERN <spanstyle="float: right; font-size: 0.9em;">February 2023 - July 2023</span>
+**Worldline**
+- Created key functions for a Chargeback Automation system, eliminating manual email-based validation and expediting dispute resolution.
+- Integrated callback functions for microservices, leveraging pod configuration to enable synchronous communication between system components.
 
+### DATA ANALYTICS INTERN <spanstyle="float: right; font-size: 0.9em;">May 2022 - August 2022</span>
+**Reliance Jio**
+- Developed customized use cases for crowd detection using the PeopleNet v2.6 model and NVIDIA DetectNet_v2 detector on live video data.
+- Deployed and compared object detection ML models using Docker containers and Nvidia Deepstream SDK's dedicated GPU for accuracy and dynamic memory usage.
 
-### SOFTWARE DEVELOPER  <span style="float: right ;font-size: 0.9em;">August 2024 - December 2024</span>
-**GPJC SOLUTIONS**
-- Developed components for the Speed18 office management software.
-- Optimized the search component by implementing dynamic query fetching based on user input, and leveraged Optical Character Recognition (OCR) to accurately 
-  detect and extract handwritten text from .png, .jpg, and PDF images.
-
-
-
-### SOFTWARE DEVELOPER INTERN  <span style="float: right ;font-size: 0.9em;">February 2023- July 2023</span>
-**WORLDLINE**
-- Developed key functions for a Chargeback Automation system, replacing manual email-based validation to streamline and accelerate dispute resolution processes.
-- Developed and integrated callback functions for microservices, utilizing pod configuration to enable synchronous communication between various system components.
-
-  
-
-### DATA ANALYTICS INTERN  <span style="float: right ;font-size: 0.9em;">MAY 2022- AUG 2022</span>
-**RELIANCE JIO**
-- Developed customized use cases for crowd detection using the PeopleNet v2.6 model and the NVIDIA DetectNet_v2 detector on live video data.
-- Deployed multiple object detection ML models using Docker container and Nvidia Deepstream SDK's dedicated GPU to compare accuracies and dynamic memory usage.
----
 
 ## Projects
 Project Name 1**Description:**  
