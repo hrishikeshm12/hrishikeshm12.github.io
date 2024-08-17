@@ -16,8 +16,18 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 
 ## Experience
-Your Most Recent Position**Company Name***Location*<span style="float: right; font-size: 14px;">`Month Year - Present`</span>- Briefly describe your role and responsibilities.
-- Highlight your key achievements or contributions.
+
+## Experience
+### Computer Vision Intern  <span style="float: right;">January 2022 - October 2022</span>
+**Samsung Prism**
+- I developed the foundation of a 3D shot-suggestion model over the existing 2D shot-suggestion model using NeRF (Neural Radiance Fields) and Pix2Vox framework.
+- The framework enables dynamic selection of style or content percentages, resulting in real-time similarity scoring, aligning with product design and artificial intelligence principles.
+
+---
+
+### Research Intern**Prasath Lab**<span style="float: right;">December 2021 - January 2023</span>- Enhanced neural network performance by 4% through the implementation of higher-order transformation functions, contributing to machine learning algorithm development.
+- Developed a framework to enable dynamic selection of style or content percentages, resulting in real-time similarity scoring, aligning with product design and artificial intelligence principles.
+
 
 ---
 
