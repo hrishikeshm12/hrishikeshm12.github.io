@@ -39,30 +39,22 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 - Deployed and compared object detection ML models using Docker containers and Nvidia Deepstream SDK's dedicated GPU for accuracy and dynamic memory usage.
 
 
-## Projects
-Project Name 1**Description:**  
-Provide a brief overview of the project, its purpose, and your role.
+## PROJECTS
+### Project Name 1 <span style="float: right; font-size: 0.9em;">Month Year</span>  
+**Technologies:**- List the main technologies and tools you used.
+- Provide a brief overview of the project, its purpose, and your role.
 
-**Technologies:**  
-List the main technologies and tools you used.
+**Link:**- [GitHub Repository](https://github.com/)
 
-**Link:**  
-[GitHub Repository](https://github.com/)
+### Project Name 2 <spanstyle="float: right; font-size: 0.9em;">Month Year</span>
+**Technologies:**- List the main technologies and tools you used.
+-Provide a brief overview of the project, its purpose, and your role.
 
----
+**Link:**- [GitHub Repository](https://github.com/)
 
-### Project Name 2**Description:**  
-Provide a brief overview of the project, its purpose, and your role.
 
-**Technologies:**  
-List the main technologies and tools you used.
-
-**Link:**  
-[GitHub Repository](https://github.com/)
-
----
-
-## Publications### [Publication Title 1](https://link.to.publication)**Journal/Conference:**  
+## Publications
+### [Publication Title 1](https://link.to.publication)**Journal/Conference:**  
 Name of the journal or conference  
 <spanstyle="float: right; font-size: 14px;">`Month Year`</span>**Authors:**  
 Your Name, Co-author's Name.
