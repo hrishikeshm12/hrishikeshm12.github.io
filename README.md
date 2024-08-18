@@ -73,23 +73,22 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 ## PUBLICATIONS
 
-### [Music recommendation using dynamic feedback and content-based filtering](https://link.springer.com/article/10.1007/s11042-024-18636-8) <span style="float: right; font-size: 14px;">`February 2024`</span>
+### [MUSIC RECOMMENDATION USING DYNAMIC FEEDBACK AND CONTENT-BASED FILTERING](https://link.springer.com/article/10.1007/s11042-024-18636-8) <span style="float: right; font-size: 14px;">`February 2024`</span>
 **Multimedia Tools and Applications**   
 **Authors:** 
 Hrishikesh Magadum, Hiteshwar Kumar Azad, Harpal Patel & Rohan H R.
 
-**Abstract:**  
-Provide a brief summary of the publication.
 
----
+### [SECURE MESSAGING USING BLOCKCHAIN TECHNOLOGY.](https://openurl.ebsco.com/EPDB%3Agcd%3A7%3A5246311/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A175658260&crl=c) <span style="float: right; font-size: 14px;">`Jan 2024`</span>
+**Grenze International Journal of Engineering & Technology (GIJET)**  
+**Authors:**  
+Hrishikesh  Magadum, Ruby D.
 
-### [Publication Title 2](https://link.to.publication)**Journal/Conference:**  
-Name of the journal or conference  
-<spanstyle="float: right; font-size: 14px;">`Month Year`</span>**Authors:**  
-Your Name, Co-author's Name.
 
-**Abstract:**  
-Provide a brief summary of the publication.
+### [COVID-19 SEVERITY PREDICTION USING DEEP LEARNING MODELS: COMPARATIVE STUDY. ](https://openurl.ebsco.com/EPDB%3Agcd%3A7%3A5246311/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A175658260&crl=c) <span style="float: right; font-size: 14px;">`Jan 2024`</span>
+**Grenze International Journal of Engineering & Technology (GIJET)**  
+**Authors:**  
+Hrishikesh  Magadum, Ruby D.
 
 ---
 
