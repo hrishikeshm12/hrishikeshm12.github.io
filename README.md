@@ -94,7 +94,10 @@ Dr.Jaisankar N Aviral Goyal, Hrishikesh Magadum, Sanskriti Srivastava, Harpal Pa
 
 ---
 
-## Education### Your Degree**Institution Name***Location*<span style="float: right; font-size: 14px;">`Month Year - Month Year`</span>**Major:**  
+## Education
+### Your Degree
+**Institution Name**
+*Location*<span style="float: right; font-size: 14px;">`Month Year - Month Year`</span>**Major:**  
 Your Major
 
 **Relevant coursework:**  
