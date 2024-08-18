@@ -45,15 +45,28 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 ## PROJECTS
 
 
-### DEOLDIFORMER <span style="float: right; font-size: 0.9em;">Month Year</span>  
-**Technologies:**- List the main technologies and tools you used.
+### DEOLDIFORMER <span style="float: right; font-size: 0.9em;">April 2024</span>  
+**Technologies:**- Python, Pytorch, Tensorflow, Numpy, Cuda, Hugging Face.
 - Provide a brief overview of the project, its purpose, and your role.
 
-**Link:**- [GitHub Repository](https://github.com/)
+**Link:**- [GitHub](https://github.com/)
 
 ### MUSIC MOSAIC <span style="float: right; font-size: 0.9em;">May 2023</span>
 **Technologies:**- Python, HTML, CSS, JavaScript, Django, MongoDB, Semantic UI, Spotify API.
 - Developed a machine learning-powered website for personalized music recommendations, utilizing user likes, plays, ratings, and other factors to dynamically generate tailored playlists.
+
+**Link:**- [GitHub](https://github.com/)
+
+### PIXEL FUSION <span style="float: right; font-size: 0.9em;">July 2023</span>
+**Technologies:**- Python, TensorFlow, OpenAI, Stable Diffusion, JavaScript, and HTML with Django Framework.
+-  Developed a web application to generate images from text using Open AI and Stable diffusion API concurrently.
+- Used Tensorflo’s Fast Style Transfer technique to transform text-generated images into artistic arbitrary styles to produce a complete blend of text-generated and abstract images.
+
+**Link:**- [GitHub](https://github.com/)
+
+### MEMORIES <span style="float: right; font-size: 0.9em;">Jan 2022</span>
+**Technologies:**- Python, MongoDB, React, Express, Javascript, HTML.
+- Developed and deployed a scalable web application on Netlify to showcase client-server architecture, enabling users to upload, delete, modify, and like events, with backend support from a NoSQL MongoDB database and rigorous testing across multiple mobile devices.
 
 **Link:**- [GitHub Repository](https://github.com/)
 
