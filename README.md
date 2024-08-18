@@ -51,7 +51,7 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 **Link:**- [GitHub Repository](https://github.com/)
 
-### MUSIC MOSAIC <spanstyle="float: right; font-size: 0.9em;">May 2023</span>
+### MUSIC MOSAIC <span style="float: right; font-size: 0.9em;">May 2023</span>
 **Technologies:**- Python, HTML, CSS, JavaScript, Django, MongoDB, Semantic UI, Spotify API.
 - Developed a machine learning-powered website for personalized music recommendations, utilizing user likes, plays, ratings, and other factors to dynamically generate tailored playlists.
 
