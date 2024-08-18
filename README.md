@@ -73,10 +73,10 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 ## PUBLICATIONS
 
-### [Music recommendation using dynamic feedback and content-based filtering](https://link.springer.com/article/10.1007/s11042-024-18636-8)
-**Multimedia Tools and Applications**   <span style="float: right; font-size: 14px;">`February 2024`</span>
+### [Music recommendation using dynamic feedback and content-based filtering](https://link.springer.com/article/10.1007/s11042-024-18636-8) <span style="float: right; font-size: 14px;">`February 2024`</span>
+**Multimedia Tools and Applications**   
 **Authors:** 
-Hrishikesh Magadum, Hiteshwar Kumar Azad, Harpal Patel & Rohan H R .
+Hrishikesh Magadum, Hiteshwar Kumar Azad, Harpal Patel & Rohan H R.
 
 **Abstract:**  
 Provide a brief summary of the publication.
