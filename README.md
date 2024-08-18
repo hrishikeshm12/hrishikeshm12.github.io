@@ -45,15 +45,15 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 ## PROJECTS
 
 
-### Project Name 1 <span style="float: right; font-size: 0.9em;">Month Year</span>  
+### DEOLDIFORMER <span style="float: right; font-size: 0.9em;">Month Year</span>  
 **Technologies:**- List the main technologies and tools you used.
 - Provide a brief overview of the project, its purpose, and your role.
 
 **Link:**- [GitHub Repository](https://github.com/)
 
-### Project Name 2 <spanstyle="float: right; font-size: 0.9em;">Month Year</span>
-**Technologies:**- List the main technologies and tools you used.
--Provide a brief overview of the project, its purpose, and your role.
+### MUSIC MOSAIC <spanstyle="float: right; font-size: 0.9em;">May 2023</span>
+**Technologies:**- Python, HTML, CSS, JavaScript, Django, MongoDB, Semantic UI, Spotify API.
+- Developed a machine learning-powered website for personalized music recommendations, utilizing user likes, plays, ratings, and other factors to dynamically generate tailored playlists.
 
 **Link:**- [GitHub Repository](https://github.com/)
 
