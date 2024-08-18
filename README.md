@@ -15,7 +15,9 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 
 
-## EXPERIENCE### DATABASE DEVELOPER INTERN <span style="float: right; font-size: 0.9em;">January 2024 - July 2024</span>  
+## EXPERIENCE
+
+### DATABASE DEVELOPER INTERN <span style="float: right; font-size: 0.9em;">January 2024 - July 2024</span>  
 **Winsoft Technologies**
 - Developed 20 SQL stored procedures for managing, validating, and storing bank customer details using XML and JSON data from the frontend.
 - Wrote over 50 SQL queries to ensure data consistency and tested multiple stored procedure scripts on the QA database.
