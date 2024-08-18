@@ -17,6 +17,7 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 ## EXPERIENCE
 
+
 ### DATABASE DEVELOPER INTERN <span style="float: right; font-size: 0.9em;">January 2024 - July 2024</span>  
 **Winsoft Technologies**
 - Developed 20 SQL stored procedures for managing, validating, and storing bank customer details using XML and JSON data from the frontend.
@@ -39,7 +40,11 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 - Deployed and compared object detection ML models using Docker containers and Nvidia Deepstream SDK's dedicated GPU for accuracy and dynamic memory usage.
 
 
+
+
 ## PROJECTS
+
+
 ### Project Name 1 <span style="float: right; font-size: 0.9em;">Month Year</span>  
 **Technologies:**- List the main technologies and tools you used.
 - Provide a brief overview of the project, its purpose, and your role.
