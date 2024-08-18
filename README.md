@@ -87,9 +87,8 @@ Hrishikesh  Magadum, Ruby D.
 
 ### [COVID-19 SEVERITY PREDICTION USING DEEP LEARNING MODELS: COMPARATIVE STUDY](https://www.ijeast.com/papers/101-106,%20Tesma0802,IJEAST.pdf) <span style="float: right; font-size: 14px;">`June 2023`</span>
 
-**Presented in 2nd International Conference on Data Science and Intelligent Applications (ICDSIA-2023)**
-
-**Published in International Journal of Engineering Applied Sciences and Technology, 2023, Vol. 8, Issue 02**
+**Presented - 2nd International Conference on Data Science and Intelligent Applications (ICDSIA-2023)**
+**Published - International Journal of Engineering Applied Sciences and Technology, 2023, Vol. 8, Issue 02**
 
 **Authors:**  
 Dr.Jaisankar N Aviral Goyal, Hrishikesh Magadum, Sanskriti Srivastava, Harpal Patel.
