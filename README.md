@@ -79,16 +79,17 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 Hrishikesh Magadum, Hiteshwar Kumar Azad, Harpal Patel & Rohan H R.
 
 
-### [SECURE MESSAGING USING BLOCKCHAIN TECHNOLOGY.](https://openurl.ebsco.com/EPDB%3Agcd%3A7%3A5246311/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A175658260&crl=c) <span style="float: right; font-size: 14px;">`Jan 2024`</span>
+### [SECURE MESSAGING USING BLOCKCHAIN TECHNOLOGY](https://openurl.ebsco.com/EPDB%3Agcd%3A7%3A5246311/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A175658260&crl=c) <span style="float: right; font-size: 14px;">`Jan 2024`</span>
 **Grenze International Journal of Engineering & Technology (GIJET)**  
 **Authors:**  
 Hrishikesh  Magadum, Ruby D.
 
 
-### [COVID-19 SEVERITY PREDICTION USING DEEP LEARNING MODELS: COMPARATIVE STUDY. ](https://openurl.ebsco.com/EPDB%3Agcd%3A7%3A5246311/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A175658260&crl=c) <span style="float: right; font-size: 14px;">`Jan 2024`</span>
-**Grenze International Journal of Engineering & Technology (GIJET)**  
+### [COVID-19 SEVERITY PREDICTION USING DEEP LEARNING MODELS: COMPARATIVE STUDY](https://www.ijeast.com/papers/101-106,%20Tesma0802,IJEAST.pdf) <span style="float: right; font-size: 14px;">`Jan 2024`</span>
+**Presented in 2nd International Conference on Data Science and Intelligent Applications (ICDSIA-2023)**
+**Published in International Journal of Engineering Applied Sciences and Technology, 2023, Vol. 8, Issue 02**
 **Authors:**  
-Hrishikesh  Magadum, Ruby D.
+Dr.Jaisankar N Aviral Goyal, Hrishikesh Magadum, Sanskriti Srivastava, Harpal Patel.
 
 ---
 
