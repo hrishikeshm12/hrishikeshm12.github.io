@@ -2,11 +2,8 @@
 <!-- To make the image round, use HTML inside the Markdown file -->
 <img src="https://github.com/user-attachments/assets/1ea7d318-934c-4b55-9cdc-1976cd8080a0" alt="Hrishikesh Magadum" style="border-radius: 50%; width: 150px; height: 150px;">
 
-## About Me
 Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep interest in Machine Learning. Currently, I'm pursuing a Master's degree in Data Science at Arizona State University. I have experience working on various projects in Deep Learning, Recommendation Systems, Text-to-Image Generation, and Transformer Image Restoration, and I'm always eager to learn and explore new technologies.
 
-
-## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=)](https://github.com/hrishikeshm12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/hrishikesh-magadum-323a431b3/)
@@ -16,7 +13,6 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 
 ## EXPERIENCE
-
 
 ### DATABASE DEVELOPER INTERN <span style="float: right; font-size: 0.9em;">`January 2024 - July 2024`</span>  
 **Winsoft Technologies**
@@ -39,74 +35,58 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 - Developed customized use cases for crowd detection using the PeopleNet v2.6 model and NVIDIA DetectNet_v2 detector on live video data.
 - Deployed and compared object detection ML models using Docker containers and Nvidia Deepstream SDK's dedicated GPU for accuracy and dynamic memory usage.
 
-
-
-
 ## PROJECTS
 
-
 ### DEOLDIFORMER <span style="float: right; font-size: 0.9em;">`April 2024`</span>  
-**Technologies:**- Python, Pytorch, Tensorflow, Numpy, Cuda, Hugging Face.
+**Technologies:** Python, Pytorch, Tensorflow, Numpy, Cuda, Hugging Face.
 - A hybrid image restoration model combining GAN-based DeOldify and transformer-based Codeformer, to achieve superior restoration of old images, including colorization and facial feature enhancement outperforming both baseline and state-of-the-art methods in image quality and generalization capabilities across diverse datasets.
 
-**Link:**- [GitHub](https://github.com/)
+**Link:** [GitHub](https://github.com/)
 
 ### MUSIC MOSAIC <span style="float: right; font-size: 0.9em;">`May 2023`</span>
-**Technologies:**- Python, HTML, CSS, JavaScript, Django, MongoDB, Semantic UI, Spotify API.
+**Technologies:** Python, HTML, CSS, JavaScript, Django, MongoDB, Semantic UI, Spotify API.
 - Developed a machine learning-powered website for personalized music recommendations, utilizing user likes, plays, ratings, and other factors to dynamically generate tailored playlists.
 
-**Link:**- [GitHub](https://github.com/)
+**Link:** [GitHub](https://github.com/)
 
 ### PIXEL FUSION <span style="float: right; font-size: 0.9em;">`July 2023`</span>
-**Technologies:**- Python, TensorFlow, OpenAI, Stable Diffusion, JavaScript, and HTML with Django Framework.
--  Developed a web application to generate images from text using Open AI and Stable diffusion API concurrently.
-- Used Tensorflo’s Fast Style Transfer technique to transform text-generated images into artistic arbitrary styles to produce a complete blend of text-generated and abstract images.
+**Technologies:** Python, TensorFlow, OpenAI, Stable Diffusion, JavaScript, HTML with Django Framework.
+- Developed a web application to generate images from text using Open AI and Stable diffusion API concurrently.
+- Used Tensorflow’s Fast Style Transfer technique to transform text-generated images into artistic arbitrary styles to produce a complete blend of text-generated and abstract images.
 
-**Link:**- [GitHub](https://github.com/)
+**Link:** [GitHub](https://github.com/)
 
 ### MEMORIES <span style="float: right; font-size: 0.9em;">`Jan 2022`</span>
-**Technologies:**- Python, MongoDB, React, Express, Javascript, HTML.
+**Technologies:** Python, MongoDB, React, Express, Javascript, HTML.
 - Developed and deployed a scalable web application on Netlify to showcase client-server architecture, enabling users to upload, delete, modify, and like events, with backend support from a NoSQL MongoDB database and rigorous testing across multiple mobile devices.
 
-**Link:**- [GitHub Repository](https://github.com/)
-
+**Link:** [GitHub Repository](https://github.com/)
 
 ## PUBLICATIONS
 
-### [MUSIC RECOMMENDATION USING DYNAMIC FEEDBACK AND CONTENT-BASED FILTERING](https://link.springer.com/article/10.1007/s11042-024-18636-8) <span style="float: right; font-size: 14px;">`February 2024`</span>
-**Multimedia Tools and Applications**   
-**Authors:** 
-Hrishikesh Magadum, Hiteshwar Kumar Azad, Harpal Patel & Rohan H R.
+### [MUSIC RECOMMENDATION USING DYNAMIC FEEDBACK AND CONTENT-BASED FILTERING](https://link.springer.com/article/10.1007/s11042-024-18636-8) <span style="float: right; font-size: 0.9em;">`February 2024`</span>
+**Multimedia Tools and Applications**  
+**Authors:** Hrishikesh Magadum, Hiteshwar Kumar Azad, Harpal Patel & Rohan H R.
 
-
-### [SECURE MESSAGING USING BLOCKCHAIN TECHNOLOGY](https://openurl.ebsco.com/EPDB%3Agcd%3A7%3A5246311/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A175658260&crl=c) <span style="float: right; font-size: 14px;">`January 2024`</span>
+### [SECURE MESSAGING USING BLOCKCHAIN TECHNOLOGY](https://openurl.ebsco.com/EPDB%3Agcd%3A7%3A5246311/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A175658260&crl=c) <span style="float: right; font-size: 0.9em;">`January 2024`</span>
 **Grenze International Journal of Engineering & Technology (GIJET)**  
-**Authors:**  
-Hrishikesh  Magadum, Ruby D.
+**Authors:** Hrishikesh Magadum, Ruby D.
 
+### [COVID-19 SEVERITY PREDICTION USING DEEP LEARNING MODELS: COMPARATIVE STUDY](https://www.ijeast.com/papers/101-106,%20Tesma0802,IJEAST.pdf) <span style="float: right; font-size: 0.9em;">`June 2023`</span>  
+**Presented - 2nd International Conference on Data Science and Intelligent Applications (ICDSIA-2023)**  
+**Published - International Journal of Engineering Applied Sciences and Technology, 2023, Vol. 8, Issue 02**  
+**Authors:** Dr. Jaisankar N, Aviral Goyal, Hrishikesh Magadum, Sanskriti Srivastava, Harpal Patel.
 
-### [COVID-19 SEVERITY PREDICTION USING DEEP LEARNING MODELS: COMPARATIVE STUDY](https://www.ijeast.com/papers/101-106,%20Tesma0802,IJEAST.pdf) <span style="float: right; font-size: 14px;">`June 2023`</span>
+## EDUCATION
 
-**Presented - 2nd International Conference on Data Science and Intelligent Applications (ICDSIA-2023)**<br>
-**Published - International Journal of Engineering Applied Sciences and Technology, 2023, Vol. 8, Issue 02**<br>
-**Authors:**  
-Dr.Jaisankar N Aviral Goyal, Hrishikesh Magadum, Sanskriti Srivastava, Harpal Patel.
-
----
-
-## Education
-
-### MASTERS IN DATA SCIENCE AND ANALYTICS <span style="float: right; font-size: 14px;">`Aug 2024 - Present`</span>
+### MASTERS IN DATA SCIENCE AND ANALYTICS <span style="float: right; font-size: 0.9em;">`Aug 2024 - Present`</span>
 **Arizona State University**
 
+### B.TECH IN COMPUTER SCIENCE <span style="float: right; font-size: 0.9em;">`Aug 2019 - Aug 2020`</span>
+**Vellore Institute of Technology (VIT)**
+- CGPA: 8.6
 
-
-### B.TECH IN COMPUTER SCIENCE <span style="float: right; font-size: 14px;">`Aug 2019 - Aug 2020`</span>
-**VELLORE INSTITUTE OF TECHNOLOGY (VIT)**
--CGPA -8.6
-
-**Relevant coursework:**  
-
+**Relevant Coursework:**  
 - BCD3002 Business Intelligence and Analytics
 - CSE3047 Predictive Analytics
 - CSE3046 Programming for Data Science
