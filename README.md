@@ -47,7 +47,7 @@ Hello! I'm **Hrishikesh Magadum**, a passionate data scientist with a deep inter
 
 ### DEOLDIFORMER <span style="float: right; font-size: 0.9em;">`April 2024`</span>  
 **Technologies:**- Python, Pytorch, Tensorflow, Numpy, Cuda, Hugging Face.
-- Provide a brief overview of the project, its purpose, and your role.
+- A hybrid image restoration model combining GAN-based DeOldify and transformer-based Codeformer, to achieve superior restoration of old images, including colorization and facial feature enhancement outperforming both baseline and state-of-the-art methods in image quality and generalization capabilities across diverse datasets.
 
 **Link:**- [GitHub](https://github.com/)
 
@@ -95,10 +95,16 @@ Dr.Jaisankar N Aviral Goyal, Hrishikesh Magadum, Sanskriti Srivastava, Harpal Pa
 ---
 
 ## Education
-### Your Degree
-**Institution Name**
-*Location*<span style="float: right; font-size: 14px;">`Month Year - Month Year`</span>**Major:**  
-Your Major
+
+### Masters In Data Science and Analytics <span style="float: right; font-size: 14px;">`Aug 2024 - Present`</span>
+**Arizona State University**
+*Phoenix, United States*
+
+
+### B.Tech In Computer Science <span style="float: right; font-size: 14px;">`Aug 2019 - Aug 2020`</span>
+**Vellore Institute of Technology (VIT)**
+*Vellore, India*
+CGPA -8.6
 
 **Relevant coursework:**  
 List some key courses
