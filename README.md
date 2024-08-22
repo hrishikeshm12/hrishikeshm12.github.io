@@ -96,18 +96,23 @@ Dr.Jaisankar N Aviral Goyal, Hrishikesh Magadum, Sanskriti Srivastava, Harpal Pa
 
 ## Education
 
-### Masters In Data Science and Analytics <span style="float: right; font-size: 14px;">`Aug 2024 - Present`</span>
+### MASTERS IN DATA SCIENCE AND ANALYTICS <span style="float: right; font-size: 14px;">`Aug 2024 - Present`</span>
 **Arizona State University**
-*Phoenix, United States*
 
 
-### B.Tech In Computer Science <span style="float: right; font-size: 14px;">`Aug 2019 - Aug 2020`</span>
-**Vellore Institute of Technology (VIT)**
-*Vellore, India*
-CGPA -8.6
+
+### B.TECH IN COMPUTER SCIENCE <span style="float: right; font-size: 14px;">`Aug 2019 - Aug 2020`</span>
+**VELLORE INSTITUTE OF TECHNOLOGY (VIT)**
+-CGPA -8.6
 
 **Relevant coursework:**  
-List some key courses
+
+- BCD3002 Business Intelligence and Analytics
+- CSE3047 Predictive Analytics
+- CSE3046 Programming for Data Science
+- CSE3045 Mathematical Modelling for Data Science
+- CSE 3013 Artificial Intelligence
+- MAT2001 Statistics for Engineers
 
 
 ---
